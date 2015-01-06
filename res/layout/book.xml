@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#F3E6C1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+<TextView
+    android:id="@+id/pgTitle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30sp" 
+    android:textColor="#3D1F00"/>
+
+<ViewFlipper 
+    android:layout_gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:id="@+id/flipper"
+    >
+
+</ViewFlipper>
+</LinearLayout>

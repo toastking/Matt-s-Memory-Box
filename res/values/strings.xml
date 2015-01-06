@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Matt\'s Memory Box</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Photos">Photos</string>
+    <string name="LongLongTime">A Long  Long Time Ago...</string>
+    <string name="LongTime">A Long Time Ago</string>
+    <string name="SlightlyLessTime">Slightly Less of a Long Time Ago</string>
+    <string name="ATime">A Time Ago</string>
+    <string name="Recent">Recent</string>
+    <string name="detail_name">Photos</string>
+    <string name="chapters_of_my_life_">Chapters of My Life...</string>
+
+</resources>
