@@ -1,4 +1,4 @@
-Matt-s-Memory-Box
+Matt's Memory Box
 =================
 
 A photobook app I made for my father as a birthday present.
